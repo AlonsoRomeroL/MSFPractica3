@@ -1,6 +1,6 @@
 
-# MSFPractica3
-Práctica 3: Sistema Musculoesquelético
+# Práctica 3: Sistema Musculoesquelético
+MSFPractica 3
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=AlonsoRomeroL/MSFPractica-3)
 
 # Práctica: Sistema musculoesquelético
